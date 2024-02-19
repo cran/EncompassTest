@@ -1,0 +1,10 @@
+8acdb62d428c0dbd110a80270044f5e6 *DESCRIPTION
+4a3ba44bb94093ad80866ed16888d033 *NAMESPACE
+d33de4671a5b58049b34f65c34ea868d *R/NW_lrv.R
+d7e1c40cbaa9d652db46b8d09db0bf27 *R/andrews_lrv.R
+c5e7818ce16dc1fc2b2e5a8289b5ee7a *R/pred_encompass_dnorm.R
+09cb77eacd66257a2f19dd5886029d30 *R/recursivehstep.R
+31e014d265fbc70db0755bb700abf4a4 *man/NW_lrv.Rd
+680fbaa1dbaf7ba622be42a351b738fb *man/andrews_lrv.Rd
+3478b4b1933c053910d9b6851ece01d7 *man/pred_encompass_dnorm.Rd
+053d1a482257a66ce546f027ecbedd5d *man/recursive_hstep_fast.Rd
